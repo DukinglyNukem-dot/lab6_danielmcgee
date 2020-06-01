@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_danielmcgee\lab6_danielmcgee\bin\Debug\lab6_danielmcgee.exe.config
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_danielmcgee\lab6_danielmcgee\bin\Debug\lab6_danielmcgee.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_danielmcgee\lab6_danielmcgee\bin\Debug\lab6_danielmcgee.pdb
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_danielmcgee\lab6_danielmcgee\obj\Debug\lab6_danielmcgee.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_danielmcgee\lab6_danielmcgee\obj\Debug\lab6_danielmcgee.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_danielmcgee\lab6_danielmcgee\obj\Debug\lab6_danielmcgee.exe
+C:\Users\Daniel\Desktop\COLLEGE_ASSIGNMENTS\IntermediateCsharp\lab6\lab6_danielmcgee\lab6_danielmcgee\obj\Debug\lab6_danielmcgee.pdb
